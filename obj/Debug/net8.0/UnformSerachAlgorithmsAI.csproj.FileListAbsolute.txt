@@ -1,0 +1,14 @@
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.AssemblyInfoInputs.cache
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.AssemblyInfo.cs
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.csproj.CoreCompileInputs.cache
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/bin/Debug/net8.0/UnformSerachAlgorithmsAI
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/bin/Debug/net8.0/UnformSerachAlgorithmsAI.deps.json
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/bin/Debug/net8.0/UnformSerachAlgorithmsAI.runtimeconfig.json
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/bin/Debug/net8.0/UnformSerachAlgorithmsAI.dll
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/bin/Debug/net8.0/UnformSerachAlgorithmsAI.pdb
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.dll
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/refint/UnformSerachAlgorithmsAI.dll
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.pdb
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/UnformSerachAlgorithmsAI.genruntimeconfig.cache
+/Users/syedqadri/Documents/Development/UnformSerachAlgorithmsAI/obj/Debug/net8.0/ref/UnformSerachAlgorithmsAI.dll
